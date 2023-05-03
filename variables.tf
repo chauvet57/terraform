@@ -1,6 +1,6 @@
 variable "prefix" {
   # A personnaliser avec votre nom
-  default = "david"
+  default = "cdavid"
 }
 
 variable "environment" {
